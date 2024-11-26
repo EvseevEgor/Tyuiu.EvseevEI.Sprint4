@@ -11,7 +11,7 @@ namespace Tyuiu.EvseevEI.Sprint4.Task0.V29.Lib
                 {
                     if (array[i] % 2 != 0)
                     {
-                        res += array[i] ;
+                        res += array[i];
                     }
                 }
                 return res;
