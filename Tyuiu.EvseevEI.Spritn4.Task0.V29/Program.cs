@@ -1,5 +1,5 @@
-﻿using Tyuiu.EvseevEI.Spritn4.Task0.V29.Lib;
-namespace Tyuiu.EvseevEI.Spritn4.Task0.V29
+﻿using Tyuiu.EvseevEI.Sprint4.Task0.V29.Lib;
+namespace Tyuiu.EvseevEI.Sprint4.Task0.V29
 {
     internal class Program
     {
