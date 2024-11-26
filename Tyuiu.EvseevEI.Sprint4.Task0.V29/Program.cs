@@ -7,14 +7,14 @@ namespace Tyuiu.EvseevEI.Sprint4.Task0.V29
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнила: Варова А. А. | ИИПб-23-2";
+            Console.Title = "Спринт #4 | Выполнила: Евсеев Е.И | ИИПб-24-2";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
-            Console.WriteLine("* Выполнила: Варова Ангелина Александровна | ИИПб-23-2                    *");
+            Console.WriteLine("* Выполнила: Евсеев Егор Игоревич | ИИПб-24-2                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан одномерный целочисленный массив на 10 элементов заполненный         *");
