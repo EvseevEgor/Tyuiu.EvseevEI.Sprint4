@@ -32,6 +32,7 @@ namespace Tyuiu.EvseevEI.Sprint4.Task0.V29
             {
                 Console.WriteLine(numsArray[i]);
             }
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
@@ -42,3 +43,4 @@ namespace Tyuiu.EvseevEI.Sprint4.Task0.V29
         }
     }
 }
+    

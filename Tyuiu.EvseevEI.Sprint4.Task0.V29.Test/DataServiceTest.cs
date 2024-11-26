@@ -15,7 +15,5 @@ namespace Tyuiu.EvseevEI.Sprint4.Task0.V29.Test
             Assert.AreEqual(wait, res);
         }
         
-
-        
+        }
     }
-}
